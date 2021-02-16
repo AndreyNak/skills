@@ -51,10 +51,15 @@ body{
 }
 
 .r_backend{
-    width: 218px;
+    width: 418px;
     background-color:#ea7387;
     position: relative;  
     
+}
+
+.skill_backend_num{
+
+    text-align: left;
 }
 
 .skill_backend_text{
@@ -67,7 +72,7 @@ body{
 
 .skill_algorithm{
     display: flex; 
-    width: 345px;  
+    width: 445px;  
 }
 
 .l_algorithm{
@@ -76,7 +81,7 @@ body{
 }
 
 .r_algorithm{
-    width: 170px;
+    width: 320px;
     position: relative;  
 }
 
@@ -86,12 +91,16 @@ body{
     bottom: -7px;
 }
 
+.skill_algorithm_num{
+    text-align: left;
+}
+
 /* front */
 
 .skill_frontend{
     display: flex;
     text-transform: uppercase;
-    width: 338px;
+    width: 438px;
 }
 
 .l_frontend{
@@ -101,7 +110,7 @@ body{
 }
 
 .r_frontend{
-    width: 156px;
+    width: 315px;
     position: relative;  
 }
 
@@ -111,9 +120,13 @@ body{
     bottom: -7px;
 }
 
+.skill_frontend_num{
+    text-align: left;
+}
+
 .skill_disign{
     display: flex;
-    width: 284px;
+    width: 384px;
     
 }
 
@@ -124,7 +137,7 @@ body{
 }
 
 .r_disign{
-    width: 106px;
+    width: 214px;
     position: relative;  
 }
 
@@ -134,9 +147,13 @@ body{
     bottom: -7px;
 }
 
+.disign_num{
+    text-align: left;
+}
+
 .skill_math{
     display: flex;
-    width: 201px;
+    width: 301px;
 }
 
 .l_math{
@@ -146,7 +163,7 @@ body{
 }
 
 .r_math{
-    width: 71px;
+    width: 172px;
     position: relative;  
 }
 
@@ -155,21 +172,24 @@ body{
     right: 5px;
     bottom: -7px;
 }
+.skill_math_num{
+    text-align: left;
+}
 
 .skill_eng{
     display: flex; 
-    width: 537px;
+    width: 437px;
 }
 
 .l_eng{
-    width: 431px;
+    width: 231px;
     border-right: 4px solid #000;
     
 
 }
 
 .r_eng{
-    width: 106px;
+    width: 314px;
     position: relative;  
 }
 
@@ -179,8 +199,12 @@ body{
     bottom: -7px;
 }
 
+.skill_eng_num{ 
+    text-align: left;
+}
+
 .skill_empty{
-    width: 25px;
+    width: 23px;
 }
 
 .skill_emotional-intellect{
@@ -208,6 +232,10 @@ body{
     bottom: -7px;
 }
 
+.skill_emotional-intellect_num{
+    text-align: left;
+}
+
 
 .skill_communication{
     display: flex;
@@ -222,7 +250,7 @@ body{
 }
 
 .r_communication{
-    width: 179px;
+    width: 279px;
     position: relative;  
 }
 
@@ -233,9 +261,12 @@ body{
     bottom: -7px;
 }
 
+.skill_communication_num{
+    text-align: left;
+}
 
 .skill_team-work{
-    width:483px ;
+    width:383px ;
     display: flex;
 }
 
@@ -246,7 +277,7 @@ body{
 }
 
 .r_team-work{
-    width: 143px;
+    width: 243px;
     position: relative;  
 
 }
@@ -255,6 +286,10 @@ body{
     position: absolute;   
     right: 5px;
     bottom: -19px;
+}
+
+.skill_team-work_num{
+    text-align: left;
 }
 
 .skill_critical-thinking{
@@ -271,7 +306,7 @@ body{
 
 .r_critical-thinking{
     position: relative;  
-    width: 213px;
+    width: 413px;
 }
 
 .skill_critical-thinking_text{
@@ -279,6 +314,10 @@ body{
     right: 5px;
     bottom: -7px;
     
+}
+
+.skill_critical-thinking_num{
+    text-align: left;
 }
 
 .skill_customer-focus{
@@ -294,7 +333,7 @@ body{
 }
 
 .r_customer-focus{
-    width: 86px;
+    width: 186px;
     position: relative;  
 }
 
@@ -302,6 +341,10 @@ body{
     position: absolute;   
     right: 5px;
     bottom: -7px;
+}
+
+.skill_customer-focus_num{
+    text-align: left;
 }
 
 .head{
